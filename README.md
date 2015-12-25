@@ -4,8 +4,6 @@
 
 ## Introduction
 
-使用 Gulp 进行构造
-
 风格参考 @Ovilia @joyeecheung @lishengzxc
 
 ## Usage
