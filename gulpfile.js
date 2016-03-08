@@ -29,7 +29,7 @@ gulp.task('compressCSS', function() {
 
 // Watch files for changes & recompile
 gulp.task('watch', function () {
-    gulp.watch(['src/*.scss'], ['compressCSS']);
+    gulp.watch(['src/css/*.scss'], ['compressCSS']);
 });
 
 // Default task, running just `gulp` will move font, compress js and scss, start server, watch files.
